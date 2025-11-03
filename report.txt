@@ -1,0 +1,68 @@
+*******************************
+REPORT FOR chicago_listings.csv
+(Data as of December 18, 2024)
+*******************************
+
+Total listings: 8,603
+
+Listings that are:
+Short-term rentals : 5,702 (66.3%)
+Longer-term rentals: 2,901 (33.7%)
+
+Listings with room type:
+Entire home/apt: 6,529 (75.9%)
+Private room   : 1,899 (22.1%)
+Hotel room     : 119 (1.4%)
+Shared room    : 56 (0.7%)
+
+Number of unlicensed current listings, at least 2,712 (31.5%); including 2,697 with missing license and 15 pending
+licensed  : 5,878
+unlicensed: 2,697
+pending   : 15
+exempt    : 13
+
+Number of listings by hosts with multiple listings: 5,971 out of 8,603 total listings (69.4%)
+
+Listings by hosts with 1 listings  : 2,632
+Listings by hosts with 2 listings  : 880
+Listings by hosts with 3 listings  : 519
+Listings by hosts with 4 listings  : 376
+Listings by hosts with 5 listings  : 345
+Listings by hosts with 6 listings  : 276
+Listings by hosts with 7 listings  : 217
+Listings by hosts with 8 listings  : 192
+Listings by hosts with 9 listings  : 135
+Listings by hosts with 10+ listings: 3,031
+
+-----Analyzing prices-----
+7,680 prices in the list
+Average listing price $577.60
+Median listing price  $169.00
+
+5,938 prices for Entire home/apt
+Average entire apt price $288.39
+Median entire apt price  $203.00
+
+-----Top 10 hosts with the largest number of listings-----
+Blueground        has 594
+LuxurybookingsFZE has 123
+Cloud9            has 87
+Milan             has 79
+Anita             has 61
+Matt              has 60
+Level             has 59
+Tina              has 47
+Freehand          has 43
+Jeremy            has 39
+
+-----Top 10 hosts with largest number of entire home listings-----
+Blueground        has 594
+LuxurybookingsFZE has 123
+Cloud9            has 87
+Milan             has 79
+Matt              has 60
+Level             has 59
+Jeremy            has 39
+Jennifer          has 33
+Assel             has 32
+Hubbard Holdings  has 31
